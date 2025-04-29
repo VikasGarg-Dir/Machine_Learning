@@ -20,7 +20,10 @@ The repository is organized into the following directories:
 - **3. KNN/**: Utilization of K-Nearest Neighbors algorithm for classification tasks.
 - **4. XGBoost/**: Deployment of XGBoost models for predictive analysis.
 - **5. ExplainableAi_xAi/**: Integration of Explainable AI methods to interpret model decisions.
-- **6. AutoML/1. PyCaret/Stress Detection/**: Leveraging PyCaret for automated machine learning in stress detection scenarios. ([ClimODE/README.md at main · dataymeric/ClimODE · GitHub](https://github.com/dataymeric/ClimODE/blob/main/README.md?utm_source=chatgpt.com))
+- **6. AutoML:
+    - 1. PyCaret:
+        - 1. Stress Detection/**: Leveraging PyCaret for automated machine learning in stress detection scenarios.
+    - 2. AutoGluon
 
 ---
 
