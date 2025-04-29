@@ -15,15 +15,15 @@ This repository showcases a series of machine learning projects focusing on Expl
 
 The repository is organized into the following directories:
 
-- **1. SVM/**: Implementation of Support Vector Machine models on datasets such as Iris, Breast Cancer, and Diabetes.
-- **2. Random Forest/**: Application of Random Forest classifiers with performance evaluations.
-- **3. KNN/**: Utilization of K-Nearest Neighbors algorithm for classification tasks.
-- **4. XGBoost/**: Deployment of XGBoost models for predictive analysis.
-- **5. ExplainableAi_xAi/**: Integration of Explainable AI methods to interpret model decisions.
+- **1. SVM**: Implementation of Support Vector Machine models on datasets such as Iris, Breast Cancer, and Diabetes.
+- **2. Random Forest**: Application of Random Forest classifiers with performance evaluations.
+- **3. KNN**: Utilization of K-Nearest Neighbors algorithm for classification tasks.
+- **4. XGBoost**: Deployment of XGBoost models for predictive analysis.
+- **5. ExplainableAi_xAi**: Integration of Explainable AI methods to interpret model decisions.
 - **6. AutoML:
-    - 1. PyCaret:
-        - 1. Stress Detection/**: Leveraging PyCaret for automated machine learning in stress detection scenarios.
-    - 2. AutoGluon
+    1. PyCaret:
+        1. Stress Detection/**: Leveraging PyCaret for automated machine learning in stress detection scenarios.
+    2. AutoGluon
 
 ---
 
