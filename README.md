@@ -1,7 +1,3 @@
-Based on the contents of the [VikasGarg-Dir/Machine_Learning](https://github.com/VikasGarg-Dir/Machine_Learning) repository, here's a refined and comprehensive `README.md` to enhance its clarity and utility:
-
----
-
 # 🧠 Machine Learning Projects
 
 This repository showcases a series of machine learning projects focusing on Exploratory Data Analysis (EDA), model training, and evaluation across various datasets. The projects employ a range of algorithms, including:
